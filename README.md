@@ -42,8 +42,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)&nbsp;
-
+![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)\
+![CYPRESS](https://img.shields.io/badge/-CYPRESS-05122A?style=flat&logo=cypress)&nbsp;
+![AXIOS](https://img.shields.io/badge/-AXIOS-05122A?style=flat&logo=axios)&nbsp;
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![SOCKETIO](https://img.shields.io/badge/-SOCKETIO-05122A?style=flat&logo=socket.io)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
