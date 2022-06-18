@@ -14,7 +14,7 @@
 📥 &nbsp;You can shoot me an email at henry_tene@hotmail.com! I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/29009340/174422512-96cc5ff8-a1e2-40b1-ae54-ec72d3c57bff.gif)
 
 ### 🛠 &nbsp;Tech Stack
 
