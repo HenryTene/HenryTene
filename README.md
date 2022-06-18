@@ -24,7 +24,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-
+![SCRUM](https://img.shields.io/badge/-SCRUM-05122A?style=flat&logo=scrum)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -35,13 +35,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)\
+![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
+![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
