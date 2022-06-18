@@ -57,8 +57,8 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/henry-tene-torres"><img src="https://img.shields.io/badge/-Henry%20Tene-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/henryttdev/"><img src="https://img.shields.io/badge/-@henryttdev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/henry-tene-torres"><img src="https://img.shields.io/badge/-Henry%20Tene-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/henryttdev/"><img src="https://img.shields.io/badge/-@henryttdev-FD1D1D?style=flat&logo=Instagram&logoColor=white"/></a>
  <a href="https://twitter.com/henrytenet"><img src="https://img.shields.io/badge/-@henrytenet-1A8CD8?style=flat&logo=Twitter&logoColor=white"/></a>
 
 </p>
