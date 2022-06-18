@@ -25,32 +25,32 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![SCRUM](https://img.shields.io/badge/-SCRUM-05122A?style=flat&logo=scrum)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![SCRUM](https://img.shields.io/badge/-SCRUM-003140?style=flat&logo=scrum)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-003140?style=flat&logo=mongodb)&nbsp;
+![Express](https://img.shields.io/badge/-Express-003140?style=flat&logo=express)&nbsp;
+![React](https://img.shields.io/badge/-React-003140?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-003140?style=flat&logo=node.js)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-003140?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-003140?style=flat&logo=typescript)&nbsp;\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-003140?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-003140?style=flat&logo=PHP)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-003140?style=flat&logo=mysql)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)\
-![CYPRESS](https://img.shields.io/badge/-CYPRESS-05122A?style=flat&logo=cypress)&nbsp;
-![AXIOS](https://img.shields.io/badge/-AXIOS-05122A?style=flat&logo=axios)&nbsp;
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![SOCKETIO](https://img.shields.io/badge/-SOCKETIO-05122A?style=flat&logo=socket.io)&nbsp;
+![Git](https://img.shields.io/badge/-Git-003140?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-003140?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-003140?style=flat&logo=gitlab)&nbsp;
+![JIRA](https://img.shields.io/badge/-JIRA-003140?style=flat&logo=jira)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-003140?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003140?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-003140?style=flat&logo=postman)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-003140?style=flat&logo=csharp)&nbsp;
+![DOCKER](https://img.shields.io/badge/-DOCKER-003140?style=flat&logo=docker)\
+![CYPRESS](https://img.shields.io/badge/-CYPRESS-003140?style=flat&logo=cypress)&nbsp;
+![AXIOS](https://img.shields.io/badge/-AXIOS-003140?style=flat&logo=axios)&nbsp;
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-003140?style=flat&logo=tailwindcss)&nbsp;
+![SOCKETIO](https://img.shields.io/badge/-SOCKETIO-003140?style=flat&logo=socket.io)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
