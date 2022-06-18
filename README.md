@@ -1,6 +1,6 @@
 
 
-<img alt="Banner" src="https://user-images.githubusercontent.com/29009340/174426412-2f0d7f7c-bf68-4151-97a2-08f5d131b7ae.jpg" width="1200px" height="350px" align="right"/>
+
 
  ## 👋 &nbsp;Hey there! I'm Henry 
 
@@ -76,7 +76,7 @@
 **HenryTene/HenryTene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img alt="Banner" src="https://user-images.githubusercontent.com/29009340/174426412-2f0d7f7c-bf68-4151-97a2-08f5d131b7ae.jpg" width="1200px" height="350px" align="right"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
