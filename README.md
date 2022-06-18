@@ -10,13 +10,13 @@
 👨🏻‍💻 &nbsp;I am currently making web projects using the MERN stack.\
 📚 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time I dedicate myself to reading about Latin American literature.\
-🕹️ &nbsp;I love video games and I am currently playing "The Legend of Zelda: Breath of the Wild"\
-📥 &nbsp;You can shoot me an email at henry_tene@hotmail.com! I'll try to respond as soon as I can.\
+🕹️ &nbsp;I love video games and I am currently playing "The Legend of Zelda: Breath of the Wild"
 
 
 
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/29009340/174422512-96cc5ff8-a1e2-40b1-ae54-ec72d3c57bff.gif" width="300px" height="200px" align="right"/>
+
+<img alt="Coding" src="https://user-images.githubusercontent.com/29009340/174422512-96cc5ff8-a1e2-40b1-ae54-ec72d3c57bff.gif" width="300px" height="200px" align="right"/>
 
 
 
