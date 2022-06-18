@@ -1,5 +1,5 @@
 
-![laptop-1512838](https://user-images.githubusercontent.com/29009340/174422055-1fe84770-7b64-410e-b1c5-9b72fa638fc1.png)
+![laptop-1512838](https://user-images.githubusercontent.com/29009340/174422119-c81915b1-e889-47cc-9e4a-9056c23d4232.png)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Henry</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Henry -->
