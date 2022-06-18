@@ -1,8 +1,9 @@
 
 
+ ## 
+<img alt="Hi" src="https://user-images.githubusercontent.com/29009340/174426732-fb4b3048-eba4-4bb8-b937-f7373007dd27.gif" width='40' align="left"/><h2>Hey there! I'm Henry</h2>
 
 
- ## 👋 &nbsp;Hey there! I'm Henry 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
