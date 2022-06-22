@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://user-images.githubusercontent.com/29009340/174941955-0591e242-4dbb-4dfa-94fc-f0cb3d56c644.png" width="1000px" height="310px"  />
+<img alt="Coding" src="https://user-images.githubusercontent.com/29009340/174941955-0591e242-4dbb-4dfa-94fc-f0cb3d56c644.png" width="1000px" height="290px"  />
 
  ## 
 <img alt="Hi" src="https://user-images.githubusercontent.com/29009340/174426732-fb4b3048-eba4-4bb8-b937-f7373007dd27.gif" width='40' align="left"/><h2>Hey there! I'm Henry</h2>
