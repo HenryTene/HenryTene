@@ -33,7 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003140?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-003140?style=flat&logo=typescript)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-003140?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-003140?style=flat&logo=PHP)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-003140?style=flat&logo=mysql)&nbsp;
@@ -45,8 +44,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-003140?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003140?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-003140?style=flat&logo=postman)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-003140?style=flat&logo=csharp)&nbsp;
-![DOCKER](https://img.shields.io/badge/-DOCKER-003140?style=flat&logo=docker)\
 ![CYPRESS](https://img.shields.io/badge/-CYPRESS-003140?style=flat&logo=cypress)&nbsp;
 ![AXIOS](https://img.shields.io/badge/-AXIOS-003140?style=flat&logo=axios)&nbsp;
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-003140?style=flat&logo=tailwindcss)&nbsp;
