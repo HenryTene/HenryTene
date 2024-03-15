@@ -11,7 +11,7 @@
 👨🏻‍💻 &nbsp;I am currently making web projects using the **MERN** stack.\
 📚 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time I dedicate myself to reading about Latin American literature.\
-🕹️ &nbsp;I love video games and I am currently playing "The Legend of Zelda: Breath of the Wild"
+🕹️ &nbsp;I love video games and I am currently playing "The Legend of Zelda: Breath of the Wild".
 
 
 
